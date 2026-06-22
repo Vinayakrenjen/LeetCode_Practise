@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -37,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
