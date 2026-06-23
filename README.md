@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
