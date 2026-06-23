@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
