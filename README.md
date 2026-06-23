@@ -79,8 +79,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
