@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
