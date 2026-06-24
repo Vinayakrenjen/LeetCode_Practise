@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Hash Table
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -132,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
