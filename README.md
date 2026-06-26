@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -171,10 +172,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +186,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
