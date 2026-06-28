@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,10 +199,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
