@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
+| [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0054-spiral-matrix/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
+| [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0052-n-queens-ii/) | Hard |
 ## Dynamic Programming
