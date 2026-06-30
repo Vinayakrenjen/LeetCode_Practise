@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0682-baseball-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0067-add-binary/) | Easy |
+| [0682-baseball-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0682-baseball-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0682-baseball-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
