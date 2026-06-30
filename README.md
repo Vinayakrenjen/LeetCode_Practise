@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0326-power-of-three/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0326-power-of-three/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
