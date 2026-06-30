@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1598-crawler-log-folder](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1598-crawler-log-folder/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1598-crawler-log-folder](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1598-crawler-log-folder/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1598-crawler-log-folder](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1598-crawler-log-folder/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
