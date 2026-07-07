@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0326-power-of-three/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -246,4 +248,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
