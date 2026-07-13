@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0231-power-of-two/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
