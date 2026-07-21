@@ -213,12 +213,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
