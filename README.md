@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,4 +269,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
