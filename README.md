@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0542-01-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0542-01-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0542-01-matrix/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0994-rotting-oranges/) | Medium |
