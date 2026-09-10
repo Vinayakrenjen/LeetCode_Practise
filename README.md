@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
 ## Backtracking
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0067-add-binary/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
