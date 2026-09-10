@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
