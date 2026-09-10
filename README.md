@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1598-crawler-log-folder/) | Easy |
 ## Queue
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1598-crawler-log-folder](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1598-crawler-log-folder/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
@@ -283,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
