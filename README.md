@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0542-01-matrix/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
+| [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0844-backspace-string-compare/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,4 +297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
