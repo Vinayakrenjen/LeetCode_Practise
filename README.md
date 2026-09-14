@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0860-lemonade-change/) | Easy |
