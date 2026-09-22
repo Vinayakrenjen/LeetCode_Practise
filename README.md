@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
+| [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 | [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 ## Counting
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
@@ -306,5 +309,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
