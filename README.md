@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0229-majority-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0229-majority-element-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0496-next-greater-element-i/) | Easy |
@@ -81,11 +83,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0229-majority-element-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0455-assign-cookies/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -334,4 +338,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
