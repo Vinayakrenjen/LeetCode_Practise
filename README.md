@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0037-sudoku-solver/) | Hard |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0169-majority-element/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Vinayakrenjen/LeetCode_Practise/tree/main/0075-sort-colors/) | Medium |
